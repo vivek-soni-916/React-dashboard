@@ -1,0 +1,31 @@
+.displayInline {
+  display: flex;
+}
+
+.backgroundWhite{
+    background-color: rgb(255, 255, 255);
+}
+.flex_container {
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  text-align: center;
+}
+
+.flex_item_left {
+  background-color: whitesmoke;
+  padding: 10px;
+  flex: 20%;
+}
+
+.flex_item_center{
+    background-color: whitesmoke;
+    padding: 10px;
+    flex: 60%;
+}
+
+.flex_item_right {
+  background-color:  whitesmoke;
+  padding: 10px;
+  flex: 20%;
+}

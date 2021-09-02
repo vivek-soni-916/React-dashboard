@@ -1,0 +1,12 @@
+.inline{
+    display: inline-block;
+    padding: 4px 27px;
+    border:1px solid  #ddd4d4;
+    background-color: #f0ecec;
+    font-size: 15px;   
+    cursor: pointer;
+}
+
+.inline:hover{
+    background-color: white;
+}

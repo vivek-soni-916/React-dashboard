@@ -1,0 +1,39 @@
+li {
+  float: left;
+  padding: 16px 16px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+button{
+  border-radius: 5px;
+  border: 2px solid #208ce4;
+  cursor: pointer;
+  outline: none;
+}
+
+.whiteFont {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.borderNone {
+  border: none;
+}
+
+.rightAlign {
+  float: right;
+}
+
+.backgroundBlue {
+  background-color: #208ce4;
+}
+

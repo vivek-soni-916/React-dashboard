@@ -1,0 +1,25 @@
+.container {
+  border: 1px solid #ddd4d4;
+  background-color: #f0ecec;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.container div {
+  display: inline-block;
+}
+
+.roomType {
+  margin-right: 22px;
+  font-size: 15px;
+  text-align: left;
+  width: 40%;
+  font-weight: 600;
+}
+
+.roomNo {
+  font-weight: 600;
+  font-size: 15px;
+  width: 40%;
+  text-align: right;
+}
